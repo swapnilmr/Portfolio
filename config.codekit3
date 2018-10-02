@@ -16,6 +16,13 @@
 		"oAP": "/.gitattributes",
 		"oF": 0
 		},
+	"/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/.gitignore",
+		"oF": 0
+		},
 	"/bower.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -84,7 +91,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "/bower_components/bootstrap-sass/assets/javascripts/bootstrap.js",
 		"oF": 0,
 		"sC": 3,
@@ -1285,6 +1292,437 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/bower_components/fullpage.js/.bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/.bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/bower_components/fullpage.js/BACKERS.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/BACKERS.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/bower_components/fullpage.js/bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/bower_components/fullpage.js/dist/fullpage.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/dist/fullpage.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/bower_components/fullpage.js/dist/fullpage.extensions.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/dist/fullpage.extensions.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/bower_components/fullpage.js/dist/fullpage.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/dist/fullpage.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/bower_components/fullpage.js/dist/fullpage.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/dist/fullpage.min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/bower_components/fullpage.js/dist/fullpage.min.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/dist/fullpage.min.css.map",
+		"oF": 0
+		},
+	"/bower_components/fullpage.js/dist/fullpage.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/dist/fullpage.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/bower_components/fullpage.js/dist/fullpage.min.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/dist/fullpage.min.js.map",
+		"oF": 0
+		},
+	"/bower_components/fullpage.js/gulpfile.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/gulpfile.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/bower_components/fullpage.js/lang/chinese/how-to-activate-fullpage-extension.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/lang/chinese/how-to-activate-fullpage-extension.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/bower_components/fullpage.js/lang/chinese/parallax-extensionmd.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/lang/chinese/parallax-extensionmd.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/bower_components/fullpage.js/lang/chinese/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/lang/chinese/README.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/bower_components/fullpage.js/lang/korean/how-to-activate-fullpage-extension.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/lang/korean/how-to-activate-fullpage-extension.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/bower_components/fullpage.js/lang/korean/parallax-extension.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/lang/korean/parallax-extension.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/bower_components/fullpage.js/lang/korean/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/lang/korean/README.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/bower_components/fullpage.js/lang/russian/how-to-activate-fullpage-extension.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/lang/russian/how-to-activate-fullpage-extension.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/bower_components/fullpage.js/lang/russian/parallax-extension.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/lang/russian/parallax-extension.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/bower_components/fullpage.js/lang/russian/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/lang/russian/README.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/bower_components/fullpage.js/lang/spanish/how-to-activate-fullpage-extension.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/lang/spanish/how-to-activate-fullpage-extension.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/bower_components/fullpage.js/lang/spanish/parallax-extension.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/lang/spanish/parallax-extension.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/bower_components/fullpage.js/lang/spanish/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/lang/spanish/README.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/bower_components/fullpage.js/LICENSE": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/LICENSE",
+		"oF": 0
+		},
+	"/bower_components/fullpage.js/package.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/package.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/bower_components/fullpage.js/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/README.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/bower_components/fullpage.js/src/fullpage.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/src/fullpage.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/bower_components/fullpage.js/src/fullpage.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/src/fullpage.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/bower_components/fullpage.js/vendors/easings.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/vendors/easings.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/bower_components/fullpage.js/vendors/easings.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/vendors/easings.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/bower_components/fullpage.js/vendors/easings.min.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/vendors/easings.min.js.map",
+		"oF": 0
+		},
+	"/bower_components/fullpage.js/vendors/scrolloverflow.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/vendors/scrolloverflow.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/bower_components/fullpage.js/vendors/scrolloverflow.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/vendors/scrolloverflow.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/bower_components/fullpage.js/vendors/scrolloverflow.min.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/bower_components/fullpage.js/vendors/scrolloverflow.min.js.map",
+		"oF": 0
+		},
 	"/bower_components/jquery/.bower.json": {
 		"ft": 524288,
 		"oA": 2,
@@ -1322,7 +1760,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "/bower_components/jquery/dist/jquery.js",
 		"oF": 0,
 		"sC": 3,
@@ -2521,10 +2959,555 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/js/main-min.js",
+		"oAP": "/js/main.min.js",
+		"oF": 2,
+		"sC": 0,
+		"tS": 0
+		},
+	"/js/main.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/main.min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/sass/.sass-cache/31462b9c7d0630268228e5302d3714168ec9e55e/_bootstrap.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/31462b9c7d0630268228e5302d3714168ec9e55e/_bootstrap.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_alerts.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_alerts.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_badges.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_badges.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_breadcrumbs.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_breadcrumbs.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_button-groups.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_button-groups.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_buttons.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_buttons.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_carousel.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_carousel.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_close.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_close.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_code.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_code.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_component-animations.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_component-animations.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_dropdowns.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_dropdowns.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_forms.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_forms.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_glyphicons.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_glyphicons.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_grid.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_grid.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_input-groups.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_input-groups.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_jumbotron.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_jumbotron.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_labels.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_labels.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_list-group.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_list-group.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_media.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_media.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_mixins.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_mixins.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_modals.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_modals.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_navbar.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_navbar.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_navs.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_navs.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_normalize.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_normalize.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_pager.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_pager.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_pagination.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_pagination.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_panels.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_panels.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_popovers.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_popovers.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_print.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_print.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_progress-bars.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_progress-bars.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_responsive-embed.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_responsive-embed.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_responsive-utilities.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_responsive-utilities.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_scaffolding.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_scaffolding.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_tables.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_tables.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_thumbnails.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_thumbnails.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_tooltip.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_tooltip.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_type.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_type.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_utilities.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_utilities.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_variables.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_variables.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_wells.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/59b435a90a9c5ae0b7947982b71d2d9ad8d02084/_wells.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_alerts.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_alerts.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_background-variant.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_background-variant.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_border-radius.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_border-radius.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_buttons.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_buttons.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_center-block.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_center-block.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_clearfix.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_clearfix.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_forms.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_forms.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_gradients.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_gradients.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_grid-framework.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_grid-framework.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_grid.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_grid.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_hide-text.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_hide-text.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_image.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_image.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_labels.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_labels.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_list-group.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_list-group.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_nav-divider.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_nav-divider.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_nav-vertical-align.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_nav-vertical-align.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_opacity.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_opacity.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_pagination.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_pagination.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_panels.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_panels.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_progress-bar.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_progress-bar.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_reset-filter.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_reset-filter.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_reset-text.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_reset-text.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_resize.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_resize.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_responsive-visibility.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_responsive-visibility.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_size.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_size.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_tab-focus.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_tab-focus.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_table-row.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_table-row.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_text-emphasis.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_text-emphasis.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_text-overflow.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_text-overflow.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_vendor-prefixes.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/8aa91f497383ead83f9f4cf7c244472366a2212d/_vendor-prefixes.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/9d2f2a38bbd1205598fd967b102bcf98ea260e25/_customVariables.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/sass/.sass-cache/9d2f2a38bbd1205598fd967b102bcf98ea260e25/_customVariables.scssc",
+		"oF": 0
+		},
+	"/sass/.sass-cache/9d2f2a38bbd1205598fd967b102bcf98ea260e25/main.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/sass/.sass-cache/9d2f2a38bbd1205598fd967b102bcf98ea260e25/main.scssc",
+		"oF": 0
+		},
+	"/sass/_customVariables.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/sass/_customVariables.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
 		},
 	"/sass/main.scss": {
 		"aP": 1,
@@ -2537,17 +3520,31 @@
 		"oAP": "/css/style.css",
 		"oF": 2,
 		"oS": 0,
-		"uL": 1
+		"uL": 0
 		}
 	},
 "hooks": [
 	],
 "manualImportLinks": {
+	"/js/main.js": [
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "/bower_components/jquery/dist/jquery.js",
+			"position": 0,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "/bower_components/bootstrap-sass/assets/javascripts/bootstrap.js",
+			"position": 1,
+			"type": 0
+			}
+		]
 	},
 "projectAttributes": {
 	"creationDate": 559930126.12223494,
-	"displayValue": "Shashaiv",
-	"displayValueWasSetByUser": 0,
+	"displayValue": "Swapnil's Portfolio",
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-gavin",
 	"iconImageWasSetByUser": 0
 	},
@@ -2933,7 +3930,7 @@
 			}
 		},
 	"esLintConfigFileHandlingType": 0,
-	"esLintECMAVersion": 7,
+	"esLintECMAVersion": 5,
 	"esLintEnvironmentsMask": 1,
 	"esLintRules": {
 		"accessor-pairs": {
