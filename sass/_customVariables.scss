@@ -1,0 +1,17 @@
+$white: #fff;
+$black: #000;
+$brand-primary: rgb(255, 128, 0);
+
+$font-family-sans-serif: 'Inter UI', Helvetica, Arial, sans-serif;
+$text-color: $white;
+$headings-font-weight: bold;
+$font-size-base: 16px;
+$font-size-h1: floor(($font-size-base * 3.5));
+$line-height-base: 1.5;
+
+$navbar-height: 75px;
+$navbar-default-bg: rgba($black, 0.5);
+$navbar-default-link-color: $white;
+$navbar-default-link-hover-color: $brand-primary;
+$navbar-default-link-active-color: $brand-primary;
+$navbar-default-border: none;

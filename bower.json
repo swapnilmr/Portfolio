@@ -34,6 +34,7 @@
   "private": true,
   "dependencies": {
     "bootstrap-sass": "boostrap-sass#^3.3.7",
-    "fullpage.js": "^3.0.3"
+    "fullpage.js": "^3.0.3",
+    "font-awsome": "^5.3.1"
   }
 }
