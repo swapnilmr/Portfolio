@@ -2,56 +2,63 @@ body {
     background: #000000;
 }
 
+.navbar-brand {
+    padding: 15px;
+}
+
 .section {
 
     p.emoji {
         font-size: 56px;
+        line-height: 1;
     }
 
-    &-one {
-        background: rgb(102,45,140);
-        background: -moz-linear-gradient(135deg, rgba(102,45,140,1) 0%, rgba(237,30,121,1) 100%);
-        background: -webkit-linear-gradient(135deg, rgba(102,45,140,1) 0%, rgba(237,30,121,1) 100%);
-        background: linear-gradient(135deg, rgba(102,45,140,1) 0%, rgba(237,30,121,1) 100%);
-        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#662d8c",endColorstr="#ed1e79",GradientType=1); 
+    .fas {
+        font-size: 36px;
+        color: $brand-primary;
     }
 
-    &-two {
-        background: rgb(49,42,108);
-        background: -moz-linear-gradient(135deg, rgba(49,42,108,1) 0%, rgba(133,45,145,1) 100%);
-        background: -webkit-linear-gradient(135deg, rgba(49,42,108,1) 0%, rgba(133,45,145,1) 100%);
-        background: linear-gradient(135deg, rgba(49,42,108,1) 0%, rgba(133,45,145,1) 100%);
-        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#312a6c",endColorstr="#852d91",GradientType=1);
-        
+    &-two, &-four {
+        color: $black;
     }
 
-    &-three {
-        background: rgb(79,0,188);
-        background: -moz-linear-gradient(135deg, rgba(79,0,188,1) 0%, rgba(41,171,226,1) 100%);
-        background: -webkit-linear-gradient(135deg, rgba(79,0,188,1) 0%, rgba(41,171,226,1) 100%);
-        background: linear-gradient(135deg, rgba(79,0,188,1) 0%, rgba(41,171,226,1) 100%);
-        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#4f00bc",endColorstr="#29abe2",GradientType=1); 
-    }
+}
+
+.active > a > .underline {
+    color: $brand-primary;
 }
 
 .underline {
+    color: $white;
     display: inline-block;
-    -webkit-transition: all 100ms linear;
-    transition: all 100ms linear;
-    background: -webkit-gradient(linear,left top,right top,from($brand-primary),to($brand-primary));
-    background: linear-gradient(to right,$brand-primary 0%,$brand-primary 100%);
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
+    background: -webkit-gradient(linear, left top, right top, from($brand-primary), to($brand-primary));
+    background: linear-gradient(to right, $brand-primary 0%, $brand-primary 100%);
     background-size: 0 2px;
     background-repeat: no-repeat;
     background-position: left 100%;
+    border-bottom: 1px dashed rgba($brand-primary, .5);
+    border-bottom-style: dotted;
 
-    &.orange {
-        color: $brand-primary;
+    &.black {
+        color: $black;
+
+        &:hover {
+            background-size: 100% 2px;
+            color: $black;
+        }
     }
 
     &:hover {
         background-size: 100% 2px;
         color: $white;
+        border-bottom: none;
     }
+}
+
+.orange {
+    color: $brand-primary;
 }
 
 .section h4 {
@@ -63,46 +70,44 @@ ul {
     padding: 0;
 }
 
-.section-one > .fp-tableCell p {
-	transform: translateX(-200px);
-	opacity: 0;
-	transition: all .5s ease;
+.section p, .section h1, .section h2, .section h4 {
+    transform: translateX(-200px);
+    opacity: 0;
+    transition: all .5s ease;
 }
 
-.section-one.active > .fp-tableCell p {
-	transform: translateX(0);
-	opacity: 1;
+.section.active p, .section.active h1, .section.active h2, .section.active h4 {
+    transform: translateX(0);
+    opacity: 1;
 }
 
-.section-one > .fp-tableCell h1 {
-	transform: translateX(-200px);
-	opacity: 0;
-	transition: all .5s ease;
+.links> a:not(:last-child) {
+    margin-right: 50px;
 }
 
-.section-one.active > .fp-tableCell h1 {
-	transform: translateX(0);
-	opacity: 1;
-}
+@media (max-width: $screen-sm) {
+    .navbar-collapse {
+        background: $black;
 
-.section-two > .fp-tableCell h4 {
-	transform: translateX(-200px);
-	opacity: 0;
-	transition: all .5s ease;
-}
+        &.whitebg {
+            background: $white;
+        }
+    }
 
-.section-two.active > .fp-tableCell h4 {
-	transform: translateX(0);
-	opacity: 1;
-}
+    .navbar-default .navbar-toggle .icon-bar.blackbg {
+        background-color: $black;
+    }
 
-.section-two > .fp-tableCell p {
-	transform: translateX(-200px);
-	opacity: 0;
-	transition: all .5s ease;
-}
+    .mb50 {
+        margin-bottom: 50px;
+    }
 
-.section-two.active > .fp-tableCell p {
-	transform: translateX(0);
-	opacity: 1;
+    .links> a {
+        display: block;
+        margin: 20px 0;
+
+        &:not(:last-child) {
+            margin-right: 0;
+        }
+    }
 }

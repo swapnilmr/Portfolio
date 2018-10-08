@@ -10,8 +10,11 @@ $font-size-h1: floor(($font-size-base * 3.5));
 $line-height-base: 1.5;
 
 $navbar-height: 75px;
-$navbar-default-bg: rgba($black, 0.5);
+$navbar-default-bg: transparent;
 $navbar-default-link-color: $white;
 $navbar-default-link-hover-color: $brand-primary;
 $navbar-default-link-active-color: $brand-primary;
 $navbar-default-border: none;
+
+$navbar-default-toggle-icon-bar-bg: #fff;
+$navbar-default-toggle-border-color: transparent;
