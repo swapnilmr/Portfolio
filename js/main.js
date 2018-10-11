@@ -11,10 +11,12 @@ $(document).ready(function () {
                 $('.underline').addClass('black');
                 $('.navbar-collapse').addClass('whitebg');
                 $('.icon-bar').addClass('blackbg');
+                $('.scroll').addClass('black');
             } else if (destination.index == 0 || destination.index == 2) {
                 $('.underline').removeClass('black');
                 $('.navbar-collapse').removeClass('whitebg');
                 $('.icon-bar').removeClass('blackbg');
+                $('.scroll').removeClass('black');
             }
         }
     });

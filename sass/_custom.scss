@@ -18,13 +18,14 @@ body {
         color: $brand-primary;
     }
 
-    &-two, &-four {
+    &-two,
+    &-four {
         color: $black;
     }
 
 }
 
-.active > a > .underline {
+.active>a>.underline {
     color: $brand-primary;
 }
 
@@ -70,22 +71,83 @@ ul {
     padding: 0;
 }
 
-.section p, .section h1, .section h2, .section h4 {
-    transform: translateX(-200px);
+.section p,
+.section h1,
+.section h2,
+.section h4 {
+    transform: translateY(-200px);
     opacity: 0;
     transition: all .5s ease;
 }
 
-.section.active p, .section.active h1, .section.active h2, .section.active h4 {
-    transform: translateX(0);
+.section.active p,
+.section.active h1,
+.section.active h2,
+.section.active h4 {
+    transform: translateY(0);
     opacity: 1;
 }
 
-.links> a:not(:last-child) {
+.links>a:not(:last-child) {
     margin-right: 50px;
 }
 
+$size: 40px;
+
+.scroll {
+    height: $size;
+    width: $size * .6;
+    border-radius: $size;
+    border: $size/22 solid $white;
+    position: absolute;
+    left: 48%;
+    bottom: 20px;
+    z-index: 1000;
+    transition: all .5s ease;
+
+    &.black{
+        border: $size/22 solid $black;
+
+        &:before {
+            background: $black;
+        }
+    }
+
+    &:before {
+        content: '';
+        position: absolute;
+        left: calc(50% - #{$size} / 20);
+        top: $size/5;
+        height: $size/10;
+        width: $size/10;
+        background: $white;
+        border-radius: 50%;
+        animation: scroll 4s infinite;
+    }
+}
+
+@keyframes scroll {
+    0% {
+        opacity: 0;
+    }
+
+    20% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+    40% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+        transform: translateY($size/4);
+    }
+}
+
 @media (max-width: $screen-sm) {
+
     .navbar-collapse {
         background: $black;
 
@@ -102,7 +164,7 @@ ul {
         margin-bottom: 50px;
     }
 
-    .links> a {
+    .links>a {
         display: block;
         margin: 20px 0;
 
