@@ -7,7 +7,7 @@
 		"uuidString": "FDE3B773-5185-4A64-A460-C41A9C38D971"
 		}
 	],
-"creatorBuild": "28901",
+"creatorBuild": "28905",
 "files": {
 	"/.gitattributes": {
 		"cB": 0,
@@ -65864,6 +65864,13 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"/README.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/README.html",
+		"oF": 0
 		},
 	"/README.md": {
 		"cB": 0,
